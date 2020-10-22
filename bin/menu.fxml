@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1280.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8">
+   <children>
+      <Button layoutX="37.0" layoutY="29.0" mnemonicParsing="false" prefHeight="721.0" prefWidth="602.0">
+         <graphic>
+            <ImageView fitHeight="445.0" fitWidth="513.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../veille-HSE.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+      <Button layoutX="669.0" layoutY="29.0" mnemonicParsing="false" prefHeight="721.0" prefWidth="588.0">
+         <graphic>
+            <ImageView fitHeight="148.0" fitWidth="353.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../conf.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+      <Button layoutX="599.0" layoutY="755.0" mnemonicParsing="false" text="Déconnexion" />
+   </children>
+</AnchorPane>

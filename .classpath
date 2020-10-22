@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="H:/Downloads/pdfjs-2.0.943-dist.zip"/>
+	<classpathentry kind="lib" path="lib/jPDFNotes.jar"/>
+	<classpathentry kind="lib" path="lib/jPDFViewerFX.jar"/>
+	<classpathentry kind="lib" path="lib/lib/javax.mail-api-1.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/lib/javax.mail.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

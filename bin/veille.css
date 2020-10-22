@@ -1,0 +1,57 @@
+#obj{
+		-fx-background-color: red, white ;
+    -fx-background-insets: 0, 0 0 1 0 ;
+    -fx-background-radius: 0 ;
+}
+
+.root{
+	-fx-background-color : white;
+}
+
+#mdp{
+		-fx-background-color: red, white ;
+    -fx-background-insets: 0, 0 0 1 0 ;
+    -fx-background-radius: 0 ;
+}
+
+#vmail{
+		-fx-background-color: red, white ;
+    -fx-background-insets: 0, 0 0 1 0 ;
+    -fx-background-radius: 0 ;
+}
+
+#dmail{
+		-fx-background-color: red, white ;
+    -fx-background-insets: 0, 0 0 1 0 ;
+    -fx-background-radius: 0 ;
+}
+
+#panelcompte{
+	-fx-background-color : rgb(166,41,34);
+}
+
+#panelgauche{
+	-fx-background-color : rgb(194,58,40);
+}
+
+#bienvenue{
+	-fx-text-fill: white;
+}
+
+#user{
+	-fx-text-fill: white;
+}
+
+#typecompte{
+	-fx-text-fill: white;
+}
+
+.tree-view, .tree-cell {
+    -fx-background-color: rgb(217,110,85);
+    -fx-text-fill: white ;
+}
+
+#recherche{
+	-fx-background-color : rgb(217,110,85);
+	-fx-text-fill: white;
+}
